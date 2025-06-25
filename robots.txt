@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Herrmuler398.github.io/EcoFitSip/sitemap.xml
